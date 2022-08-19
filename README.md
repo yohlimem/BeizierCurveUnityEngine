@@ -1,4 +1,4 @@
-# BeizierCurveUnityEngine
+# BézierCurveUnityEngine
 Bezier Curve in unity
 
 # How to open?
